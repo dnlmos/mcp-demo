@@ -132,22 +132,3 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
     mcp.run(args.server_type)
-
-
-# # Example usage
-# if __name__ == "__main__":
-#     # Example INSERT query
-#     insert_query = """
-#     INSERT INTO people (name, age, profession)
-#     VALUES ('John Doe', 30, 'Engineer')
-#     """
-#
-#     # Add data
-#     add_data(insert_query)
-#     print("Data added successfully")
-#
-#     # Read all data
-#     results = read_data()
-#     print("\nAll records:")
-#     for record in results:
-#         print(record)
