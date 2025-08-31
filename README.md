@@ -7,5 +7,5 @@ A simple demo for exploring **model context protocols** and how different contex
 Clone the repository and install dependencies using the `uv` package manager:
 
 ```bash
-git clone git@github.com:daniel-mosko/mcp_demo.git
+git clone git@github.com:dnlmos/mcp-demo.git
 uv sync
